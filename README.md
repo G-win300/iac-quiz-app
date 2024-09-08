@@ -52,5 +52,3 @@
 - Install VS Code Editor - recommended for this course
 - Install HashiCorp Terraform plugin for VS Code - recommended
 
-
-
