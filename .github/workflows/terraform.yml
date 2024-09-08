@@ -1,4 +1,4 @@
-name: Godwin IAC
+name: Godwin IAC gitops
 
 on:
     push:
